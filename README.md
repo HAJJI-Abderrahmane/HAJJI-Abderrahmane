@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @HAJJI-Abderrahmane
-i am a data scientist, that's extremely curious and always willing to contribute in any advanced technologies
+i am a data scientist, that's pretty much interested by everything code related, you will find in my repos all kinds of projects that i've done through my years.
+i would love to contribute in any type of open-source project.
+reach me at : hajji.abderrahmane11@gmail.com
 
 <!---
 HAJJI-Abderrahmane/HAJJI-Abderrahmane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
